@@ -1,0 +1,11 @@
+pandas
+numpy
+pandas
+torch
+matplotlib
+scikit-learn
+pandas_ta
+tqdm
+transformers
+pathlib
+futures
