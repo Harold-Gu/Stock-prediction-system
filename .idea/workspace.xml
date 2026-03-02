@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53f4f2ca-c1a5-479d-a708-b4518cd8a7e5" name="更改" comment="without any berts data had already loaded, it works!">
+    <list default="true" id="53f4f2ca-c1a5-479d-a708-b4518cd8a7e5" name="更改" comment="Fine finish the task">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Stock predict system.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Stock predict system.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +76,7 @@
       <workItem from="1770390974722" duration="417000" />
       <workItem from="1772112530385" duration="637000" />
       <workItem from="1772195220487" duration="109000" />
-      <workItem from="1772463188385" duration="5457000" />
+      <workItem from="1772463188385" duration="5946000" />
     </task>
     <task id="LOCAL-00001" summary="Init the project">
       <option name="closed" value="true" />
@@ -111,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770391381587</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fine finish the task">
+      <option name="closed" value="true" />
+      <created>1772468979484</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1772468979484</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +139,8 @@
     <MESSAGE value="Init the project" />
     <MESSAGE value="Data processing but still have some bugs" />
     <MESSAGE value="without any berts data had already loaded, it works!" />
-    <option name="LAST_COMMIT_MESSAGE" value="without any berts data had already loaded, it works!" />
+    <MESSAGE value="Fine finish the task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fine finish the task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
