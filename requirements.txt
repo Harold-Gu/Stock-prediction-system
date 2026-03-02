@@ -10,3 +10,4 @@ transformers
 pathlib
 futures
 pyarrow
+textblob

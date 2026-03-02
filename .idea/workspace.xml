@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53f4f2ca-c1a5-479d-a708-b4518cd8a7e5" name="更改" comment="Data processing but still have some bugs">
+    <list default="true" id="53f4f2ca-c1a5-479d-a708-b4518cd8a7e5" name="更改" comment="without any berts data had already loaded, it works!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Stock predict system.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Stock predict system.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
@@ -74,7 +74,10 @@
       <option name="presentableId" value="Default" />
       <updated>1770383415825</updated>
       <workItem from="1770383416939" duration="6860000" />
-      <workItem from="1770390974722" duration="363000" />
+      <workItem from="1770390974722" duration="417000" />
+      <workItem from="1772112530385" duration="637000" />
+      <workItem from="1772195220487" duration="109000" />
+      <workItem from="1772463188385" duration="5457000" />
     </task>
     <task id="LOCAL-00001" summary="Init the project">
       <option name="closed" value="true" />
@@ -100,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770390105928</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="without any berts data had already loaded, it works!">
+      <option name="closed" value="true" />
+      <created>1770391381587</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770391381587</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,20 +131,21 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init the project" />
     <MESSAGE value="Data processing but still have some bugs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data processing but still have some bugs" />
+    <MESSAGE value="without any berts data had already loaded, it works!" />
+    <option name="LAST_COMMIT_MESSAGE" value="without any berts data had already loaded, it works!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>file://$PROJECT_DIR$/Stock predict system.ipynb</url>
-          <line>19</line>
+          <line>20</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>file://$PROJECT_DIR$/Stock predict system.ipynb</url>
           <line>3</line>
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
