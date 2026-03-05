@@ -11,3 +11,4 @@ pathlib
 futures
 pyarrow
 textblob
+seaborn
